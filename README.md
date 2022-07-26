@@ -1,6 +1,9 @@
-# Washing Machine 
+# Washing Machine VHDL ModelSim
 ## Introduction
 This project will imitate the behaviour of a washimg machine using modelsim.
+
+## Process
+- stand --> fill --> wash --> drain --> fill --> rinse --> drain --> spin --> finish
 
 
 ## FSM
